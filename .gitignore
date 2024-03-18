@@ -1,0 +1,4 @@
+.env
+/personas
+history.txt
+__pycache__
